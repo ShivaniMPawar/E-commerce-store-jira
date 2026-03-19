@@ -35,4 +35,4 @@ work using a board with columns representing stages:
 - Size: 4 members
 - My Role: Project Lead & Task Manager
 - Tool: Jira (Kanban Board)
-- ![Kanban Board](jira-board.png)
+- ![Kanban Board](jira.jfif)
